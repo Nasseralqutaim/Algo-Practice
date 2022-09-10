@@ -1,0 +1,6 @@
+class BowlingGame
+  def my_test_method_1
+    100
+  end
+
+end 
